@@ -5,9 +5,11 @@ import static org.junit.Assert.assertEquals;
 public class TestJunit {
     @Test
     public void testAdd() {
-        System.out.println("Inside testAdd()");
+        System.out.println("Inside testAddz()");
 
         assertEquals(true,false);
+        assertEquals(false,false);
+        assertEquals(false,true);
     }
 
     @Test
