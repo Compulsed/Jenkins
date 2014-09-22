@@ -12,6 +12,6 @@ public class TestJunit {
 
 
         assertEquals("Junit is working fine",str);
-        assertEquals(true, false);
+        assertEquals(true, true);
     }
 }
