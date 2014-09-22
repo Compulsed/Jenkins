@@ -23,6 +23,17 @@ public class TestJunit {
 
     @Test
     public void failTest() {
+        System.out.println("Inside failTest()");
+
+        String str= "Junit is working fine";
+
+
+        assertEquals("Junit is working fine",str);
+        assertEquals(true, false);
+    }
+
+    @Test
+    public void failTest2() {
 
         System.out.println("Inside failTest()");
 
