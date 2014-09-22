@@ -5,16 +5,14 @@ import static org.junit.Assert.assertEquals;
 public class TestJunit {
     @Test
     public void testAdd() {
-
         System.out.println("Inside testAdd()");
-        String str= "Junit is working fine";
 
+        String str= "Junit is working fine";
         assertEquals("Junit is working fine",str);
     }
 
     @Test
     public void trueTest() {
-
         System.out.println("Inside anotherTest()");
 
 
@@ -25,22 +23,14 @@ public class TestJunit {
     public void failTest() {
         System.out.println("Inside failTest()");
 
-        String str= "Junit is working fine";
 
-
-        assertEquals("Junit is working fine",str);
         assertEquals(true, false);
     }
 
     @Test
     public void failTest2() {
+        System.out.println("Inside fail2Test()");
 
-        System.out.println("Inside failTest()");
-
-        String str= "Junit is working fine";
-
-
-        assertEquals("Junit is working fine",str);
         assertEquals(true, false);
     }
 }
