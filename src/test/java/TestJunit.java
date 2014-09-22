@@ -7,8 +7,7 @@ public class TestJunit {
     public void testAdd() {
         System.out.println("Inside testAdd()");
 
-        String str= "Junit is working fine";
-        assertEquals("Junit is working fine",str);
+        assertEquals(true,false);
     }
 
     @Test
