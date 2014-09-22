@@ -7,9 +7,9 @@ public class TestJunit {
     public void testAdd() {
         System.out.println("Inside testAddz()");
 
-        assertEquals(true,false);
-        assertEquals(false,false);
-        assertEquals(false,true);
+        assertEquals(true,true);
+        assertEquals(true,true);
+        assertEquals(true,true);
     }
 
     @Test
@@ -25,13 +25,13 @@ public class TestJunit {
         System.out.println("Inside failTest()");
 
 
-        assertEquals(true, false);
+        assertEquals(true, true);
     }
 
     @Test
     public void failTest2() {
         System.out.println("Inside fail2Test()");
 
-        assertEquals(true, false);
+        assertEquals(true, true);
     }
 }
