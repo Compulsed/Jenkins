@@ -30,7 +30,7 @@ public class TestJunit {
 
     @Test
     public void failTest2() {
-        System.out.println("Inside fail2Test()");
+        System.out.println("Inside fail2Tests()");
 
         assertEquals(true, true);
     }
