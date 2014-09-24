@@ -21,6 +21,8 @@ public class TestSets extends TestCase{
         aList.add(20);
         aList.add(3);
 
+
+        // STILL SHOULD NOT WORK
         // Collections.sort(aList);
 
         boolean isSorted = true;
