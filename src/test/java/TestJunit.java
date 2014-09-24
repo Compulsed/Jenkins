@@ -9,7 +9,8 @@ public class TestJunit extends TestCase {
         assertTrue("This is true again", true);
     }
 
-    public void randomTest() {
+    @Test
+    public void testRandom() {
         assertTrue("This is a random value", Math.random() > 0.5 ? true : false);
     }
 }
