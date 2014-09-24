@@ -27,7 +27,7 @@ public class TestSets extends TestCase{
         try {
             Integer number = aList.get(0);
             for (Integer listItem : aList) {
-                if (listItem <= number) number = listItem;
+                if (listItem >= number) number = listItem;
                 else {
                     isSorted = false;
                     break;
