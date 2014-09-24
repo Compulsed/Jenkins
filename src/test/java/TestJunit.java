@@ -6,6 +6,6 @@ import junit.framework.TestCase;
 public class TestJunit extends TestCase {
     @Test
     public void testAdd() {
-        assertTrue("This is false", false);
+        assertTrue("This is true", true);
     }
 }
