@@ -37,7 +37,7 @@ public class TestSets extends TestCase{
             }
         } catch (Exception e){} // if there is nothing in the list
 
-        assertTrue("The list should be sorted", false);
+        assertTrue("The list should be sorted", true);
     }
 
     @Override
