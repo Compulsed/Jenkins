@@ -23,8 +23,7 @@ public class TestSets extends TestCase{
 
 
         // STILL SHOULD NOT WORK
-        // Collections.sort(aList);
-
+        Collections.sort(aList);
         boolean isSorted = true;
         try {
             Integer number = aList.get(0);

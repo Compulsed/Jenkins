@@ -8,4 +8,8 @@ public class TestJunit extends TestCase {
     public void testAdd() {
         assertTrue("This is true again", true);
     }
+
+    public void randomTest() {
+        assertTrue("This is a random value", Math.random() > 0.5 ? true : false);
+    }
 }
