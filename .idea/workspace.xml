@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75be082a-e3b4-4e03-bde2-71f1f469027a" name="Default" comment="Another attempt, after Java8">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestJunit.java" afterPath="$PROJECT_DIR$/src/test/java/TestJunit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestSets.java" afterPath="$PROJECT_DIR$/src/test/java/TestSets.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="75be082a-e3b4-4e03-bde2-71f1f469027a" name="Default" comment="Another attempt, after Java8" />
     <ignored path="Jenkins.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +26,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/dalesalter/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
@@ -41,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/TestJunit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.09881423" vertical-offset="0" max-vertical-offset="759">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -51,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/TestSets.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
-              <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+              <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -569,7 +565,7 @@
       <created>1411547063988</created>
       <updated>1411547063988</updated>
       <workItem from="1411547066890" duration="3394000" />
-      <workItem from="1411558876314" duration="281000" />
+      <workItem from="1411558876314" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="Working sort test case">
       <created>1411549552797</created>
@@ -587,7 +583,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3675000" />
+    <option name="totallyTimeSpent" value="3815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
@@ -695,7 +691,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
-          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -713,7 +709,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/TestJunit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09881423" vertical-offset="0" max-vertical-offset="759">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding />
         </state>
       </provider>
